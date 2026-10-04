@@ -1,0 +1,418 @@
+{
+ "bagkur": [
+  {
+   "alt_sinir": "33030.00",
+   "baslangic": "2026-01",
+   "indirim_puani": "5",
+   "kaynak": "2026 asgari ücret 33.030 TL; en düşük prim 11.808,23 TL, 5 puan indirimli 10.156,73 TL",
+   "oran": "35.75",
+   "ust_sinir": "297270.00"
+  }
+ ],
+ "parametre_tarihi": "2026-10-04",
+ "parametreler": {
+  "asgari_destek_gunluk": 42.33,
+  "asgari_kv": 10.0,
+  "asgari_ucret": [
+   {
+    "baslangic": "2026-01-01",
+    "brut": 33030.0
+   }
+  ],
+  "aylik_saat": 225,
+  "ceza_kaynak": "588 s. VUK Genel Tebliği (RG 31.12.2025 5. mük.); VUK 344, 352, 353, 376 (7524 s.K.)",
+  "damga_azami": 29115961.1,
+  "damga_binde": 7.59,
+  "damga_maktu": [
+   [
+    "Yıllık gelir vergisi beyannamesi",
+    1189.5
+   ],
+   [
+    "Kurumlar vergisi beyannamesi",
+    1605.8
+   ],
+   [
+    "KDV beyannamesi",
+    791.0
+   ],
+   [
+    "Muhtasar beyanname",
+    791.0
+   ],
+   [
+    "Muhtasar ve prim hizmet beyannamesi",
+    939.7
+   ],
+   [
+    "Diğer vergi beyannameleri",
+    791.0
+   ],
+   [
+    "Bilanço",
+    616.3
+   ],
+   [
+    "Gelir tablosu",
+    294.2
+   ],
+   [
+    "İşletme hesabı özeti",
+    294.2
+   ],
+   [
+    "Gümrük beyannamesi",
+    1605.8
+   ],
+   [
+    "SGK sigorta prim bildirgesi",
+    588.8
+   ],
+   [
+    "Belediyeye verilen beyanname",
+    588.8
+   ]
+  ],
+  "damga_nispi": [
+   [
+    "Sözleşme, taahhütname, kefalet",
+    9.48
+   ],
+   [
+    "Kira sözleşmesi (toplam kira)",
+    1.89
+   ],
+   [
+    "Fesihname / ikinci el araç satış sözleşmesi",
+    1.89
+   ],
+   [
+    "Maaş, ücret, ödünç makbuzu",
+    7.59
+   ],
+   [
+    "İhale kararı",
+    5.69
+   ]
+  ],
+  "demirbas_siniri": 12000,
+  "fazla_mesai_zam": 50,
+  "fazla_sure_zam": 25,
+  "gecici_gercek": 15.0,
+  "gecici_kurum": 25.0,
+  "gecikme_kaynak": "GİB Gecikme Zammı Oranları tablosu (gib.gov.tr › Yararlı Bilgiler)",
+  "gecikme_zammi": [
+   {
+    "baslangic": "2000-01-20",
+    "dayanak": "408 s. Tebliğ",
+    "oran": 6.0
+   },
+   {
+    "baslangic": "2000-12-02",
+    "dayanak": "411 s. Tebliğ",
+    "oran": 5.0
+   },
+   {
+    "baslangic": "2001-03-29",
+    "dayanak": "415 s. Tebliğ",
+    "oran": 10.0
+   },
+   {
+    "baslangic": "2002-01-31",
+    "dayanak": "422 s. Tebliğ",
+    "oran": 7.0
+   },
+   {
+    "baslangic": "2003-11-12",
+    "dayanak": "429 s. Tebliğ",
+    "oran": 4.0
+   },
+   {
+    "baslangic": "2004-01-02",
+    "dayanak": "5035 s.K. 4. md.",
+    "oran": 4.0
+   },
+   {
+    "baslangic": "2005-03-02",
+    "dayanak": "434 s. Tebliğ",
+    "oran": 3.0
+   },
+   {
+    "baslangic": "2006-04-21",
+    "dayanak": "438 s. Tebliğ",
+    "oran": 2.5
+   },
+   {
+    "baslangic": "2009-11-19",
+    "dayanak": "2009/15565 s. BKK",
+    "oran": 1.95
+   },
+   {
+    "baslangic": "2010-10-19",
+    "dayanak": "2010/965 s. BKK",
+    "oran": 1.4
+   },
+   {
+    "baslangic": "2018-09-05",
+    "dayanak": "62 s. CK",
+    "oran": 2.0
+   },
+   {
+    "baslangic": "2019-07-01",
+    "dayanak": "1266 s. CK",
+    "oran": 2.5
+   },
+   {
+    "baslangic": "2019-10-02",
+    "dayanak": "1592 s. CK",
+    "oran": 2.0
+   },
+   {
+    "baslangic": "2019-12-30",
+    "dayanak": "1947 s. CK",
+    "oran": 1.6
+   },
+   {
+    "baslangic": "2022-07-21",
+    "dayanak": "5801 s. CK",
+    "oran": 2.5
+   },
+   {
+    "baslangic": "2023-11-14",
+    "dayanak": "7782 s. CK",
+    "oran": 3.5
+   },
+   {
+    "baslangic": "2024-05-21",
+    "dayanak": "8484 s. CK",
+    "oran": 4.5
+   },
+   {
+    "baslangic": "2025-11-13",
+    "dayanak": "10556 s. CK (RG 13.11.2025/33076)",
+    "oran": 3.7
+   }
+  ],
+  "gv_tarifesi": {
+   "2026": [
+    {
+     "oran": 15,
+     "ust": 190000
+    },
+    {
+     "oran": 20,
+     "ust": 400000
+    },
+    {
+     "oran": 27,
+     "ust": 1500000
+    },
+    {
+     "oran": 35,
+     "ust": 5300000
+    },
+    {
+     "oran": 40,
+     "ust": null
+    }
+   ]
+  },
+  "gv_tarifesi_diger": {
+   "2026": [
+    {
+     "oran": 15,
+     "ust": 190000
+    },
+    {
+     "oran": 20,
+     "ust": 400000
+    },
+    {
+     "oran": 27,
+     "ust": 1000000
+    },
+    {
+     "oran": 35,
+     "ust": 5300000
+    },
+    {
+     "oran": 40,
+     "ust": null
+    }
+   ]
+  },
+  "indirim_376_usul": 50,
+  "indirim_376_usul_kucuk": 75,
+  "indirim_376_ziya": 50,
+  "issizlik_oran": 40,
+  "issizlik_sureleri": [
+   [
+    600,
+    180
+   ],
+   [
+    900,
+    240
+   ],
+   [
+    1080,
+    300
+   ]
+  ],
+  "issizlik_tavan_oran": 80,
+  "izin_sureleri": [
+   [
+    1,
+    14
+   ],
+   [
+    5,
+    20
+   ],
+   [
+    15,
+    26
+   ]
+  ],
+  "kdv_oranlari": [
+   20,
+   10,
+   1,
+   0
+  ],
+  "kdv_varsayilan": 20,
+  "kidem_tavani": [
+   {
+    "baslangic": "2026-01-01",
+    "kaynak": "HMB Genelge 06.01.2026",
+    "tutar": 64948.77
+   },
+   {
+    "baslangic": "2026-07-01",
+    "kaynak": "HMB Genelge (Sıra No: 5) 03.07.2026",
+    "tutar": 73729.87
+   }
+  ],
+  "kira_stopaj": 20.0,
+  "kurumlar_orani": 25.0,
+  "ozel_usulsuzluk_353_1_yillik": 17000000,
+  "ozel_usulsuzluk_353_2_tespit": 1700000,
+  "ozel_usulsuzluk_tespit": [
+   17000,
+   35000,
+   53000,
+   70000,
+   87000,
+   170000
+  ],
+  "sgk_oran": {
+   "indirimler": [
+    0,
+    2,
+    5
+   ],
+   "isci": 14.0,
+   "issizlik_isci": 1.0,
+   "issizlik_isveren": 2.0,
+   "isveren": 21.75
+  },
+  "sgk_tavan": [
+   {
+    "alt": 33030.0,
+    "baslangic": "2026-01-01",
+    "ust": 297270.0
+   }
+  ],
+  "smm_stopaj": 20.0,
+  "smm_stopaj_18": 17.0,
+  "tapu_harci_binde": 20.0,
+  "tevkifat_oranlari": [
+   [
+    2,
+    10
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    4,
+    10
+   ],
+   [
+    5,
+    10
+   ],
+   [
+    7,
+    10
+   ],
+   [
+    9,
+    10
+   ],
+   [
+    10,
+    10
+   ]
+  ],
+  "tufe_12_ort": {
+   "2024-12": 58.51,
+   "2025-01": 56.35,
+   "2025-02": 53.83,
+   "2025-03": 51.26,
+   "2025-04": 48.73,
+   "2025-05": 45.8,
+   "2025-06": 43.23,
+   "2025-07": 41.13,
+   "2025-08": 39.62,
+   "2025-09": 38.36,
+   "2025-10": 37.15,
+   "2025-11": 35.91,
+   "2025-12": 34.88,
+   "2026-01": 33.98,
+   "2026-02": 33.39,
+   "2026-03": 32.82,
+   "2026-04": 32.43,
+   "2026-05": 32.24,
+   "2026-06": 32.03,
+   "2026-07": 31.9,
+   "2026-08": 31.79
+  },
+  "usulsuzluk_352": [
+   [
+    "Sermaye şirketleri",
+    35000,
+    17000
+   ],
+   [
+    "Sermaye şirketleri dışındaki 1. sınıf tüccar ve serbest meslek",
+    17000,
+    8700
+   ],
+   [
+    "2. sınıf tüccar",
+    8700,
+    6000
+   ],
+   [
+    "Yukarıdakiler dışında beyannameye tabi olanlar",
+    6000,
+    4000
+   ],
+   [
+    "Basit usulde vergilendirilenler",
+    4000,
+    2600
+   ],
+   [
+    "Gelir vergisinden muaf esnaf",
+    2600,
+    1700
+   ]
+  ],
+  "uzlasma_haddi": 40000
+ },
+ "surum": 1791104757,
+ "tarih": "2026-10-04T12:05:57"
+}
