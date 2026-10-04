@@ -1,7 +1,14 @@
-1.0.7
-- YENİ: E-Posta menüsü — ofis e-postası programa alınır (Ayarlar › E-Posta). Gelen/giden e-postalar müşteriyle eşleşir; durum, atama, cevaplama, ekleri Evraklar'a kaydetme.
-- Müşteriye birden çok e-posta adresi tanımlanabilir; GİB'den gelen borç durum yazısı PDF'teki vergi numarasından müşteriye bağlanır ve Evraklar'a kaydedilir.
-- Lisans: panelden askıya alma uyarısı (60 / 30 / 5 dakika kala).
-- Müşteri listesi: 'San.Tic.Ltd.Şti.', 'Limited Şirket' gibi yazılan şirketler artık Ltd.Şti. sayılıyor; hızlı düzenlemede alt toplam hemen güncelleniyor.
-- Sıfırdan kurulan ofislerde E-Defter'in Aylık / 3 aylık seçimi düzeltildi.
-- SMMM şifrelerinde 'GİB e-Beyanname' kaydı GİB ile birleştirildi.
+1.0.8
+Daha düzenli ekranlar, SGK'dan yeni okumalar (e-Vizite, işe giriş / çıkış, iş kazası) ve daha az tıklama.
+• e-Vizite ve iş kazası ayrı bölümde
+• e-Vizite, işe giriş / çıkış ve iş kazası SGK'dan okunur
+• Teşvik, yapılandırma ve borcu yoktur yazısı
+• Karşıt inceleme tutanakları
+• Oda aidatı borcu (TOBB)
+• Sağ tık menüsü
+• Yenilenen müşteri kartı
+• Ofisteki ilk dönem ve bırakma tarihi
+• SGK e-Tebligat dosyaları açılır
+• Toplu duyuruda alıcı seçimi
+• Hesaplama ve ücretler
+• Sorun bildir
