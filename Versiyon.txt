@@ -1,14 +1,13 @@
-1.0.8
-Daha düzenli ekranlar, SGK'dan yeni okumalar (e-Vizite, işe giriş / çıkış, iş kazası) ve daha az tıklama.
-• e-Vizite ve iş kazası ayrı bölümde
-• e-Vizite, işe giriş / çıkış ve iş kazası SGK'dan okunur
-• Teşvik, yapılandırma ve borcu yoktur yazısı
-• Karşıt inceleme tutanakları
-• Oda aidatı borcu (TOBB)
-• Sağ tık menüsü
-• Yenilenen müşteri kartı
-• Ofisteki ilk dönem ve bırakma tarihi
-• SGK e-Tebligat dosyaları açılır
-• Toplu duyuruda alıcı seçimi
-• Hesaplama ve ücretler
-• Sorun bildir
+1.0.9
+Cep telefonundan iş takibi, müşteriler için mükellef portalı, buluta şifreli yedek ve daha sade ekranlar.
+• Cep telefonundan iş takibi
+• Mükellef portalı
+• Müşterilerden gelen evraklar
+• Şifreli yedek ve bulut yedeği
+• Daha güvenli bağlantı
+• Sade müşteri kartı
+• Önce acil olanlar
+• Kontrol sırası
+• Tahmini eşleşmeler ayrı
+• Kendiliğinden yapılan işaretler görünür
+• Sözleşme ve aydınlatma metinleri
