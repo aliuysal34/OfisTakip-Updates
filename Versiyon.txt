@@ -1,13 +1,15 @@
-1.0.9
-Cep telefonundan iş takibi, müşteriler için mükellef portalı, buluta şifreli yedek ve daha sade ekranlar.
-• Cep telefonundan iş takibi
-• Mükellef portalı
-• Müşterilerden gelen evraklar
-• Şifreli yedek ve bulut yedeği
-• Daha güvenli bağlantı
-• Sade müşteri kartı
-• Önce acil olanlar
-• Kontrol sırası
-• Tahmini eşleşmeler ayrı
-• Kendiliğinden yapılan işaretler görünür
-• Sözleşme ve aydınlatma metinleri
+1.0.10
+Tek 'Evet' ile kurulum, GİB'e göre kendiliğinden tanımlanan beyannameler, yedeklerin her gün sınanması ve daha güvenli bulut.
+• Beyannameler GİB'deki mükellefiyete göre
+• Tek 'Evet' ile kurulum
+• Diğer bilgisayarlar için kolay bağlantı
+• Yedekler her gün sınanıyor
+• Acil durum kurtarma parolası
+• Bulut yedeği tek bilgisayara bağlı
+• Bağlantı Durumu
+• Onay bekleyen eşleşmeler tek listede
+• Cep telefonu bağlantısı ayrı adreste
+• Portal belgeleri şifreli, T.C. numaraları gizli
+• Kira sözleşmesi bitişi
+• Bağlı cihazlar
+• Görmeden kullanma yetkisi
