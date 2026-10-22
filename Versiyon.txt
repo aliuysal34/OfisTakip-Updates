@@ -1,15 +1,13 @@
-1.0.10
-Tek 'Evet' ile kurulum, GİB'e göre kendiliğinden tanımlanan beyannameler, yedeklerin her gün sınanması ve daha güvenli bulut.
-• Beyannameler GİB'deki mükellefiyete göre
-• Tek 'Evet' ile kurulum
-• Diğer bilgisayarlar için kolay bağlantı
-• Yedekler her gün sınanıyor
-• Acil durum kurtarma parolası
-• Bulut yedeği tek bilgisayara bağlı
-• Bağlantı Durumu
-• Onay bekleyen eşleşmeler tek listede
-• Cep telefonu bağlantısı ayrı adreste
-• Portal belgeleri şifreli, T.C. numaraları gizli
-• Kira sözleşmesi bitişi
-• Bağlı cihazlar
-• Görmeden kullanma yetkisi
+1.0.11
+e-Vizite raporları güvenlik kodu ve SMS olmadan kendiliğinden okunuyor, Aylık İşler'de yeni seçenekler, sağ tıkta Sorgula ve büyük ofislerde daha hızlı ekranlar.
+• e-Vizite raporları kendiliğinden geliyor
+• Rapor onayı programdan
+• Aylık İşler: Tümü / Açıklar / Yapılanlar
+• Dilekçeler Aylık İşler'den
+• Sağ tıkta ⟳ Sorgula
+• Geçmiş ayları kapatma
+• Daha çok tebligat bildirimi müşteriyle eşleşiyor
+• Yeni müşteride beyannameler GİB'den
+• Uyuşmazlığı dikkate alma
+• Büyük ofislerde daha hızlı
+• Daha küçük yedek, Veri Sağlığı sayfası
