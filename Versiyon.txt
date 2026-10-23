@@ -1,13 +1,11 @@
-1.0.11
-e-Vizite raporları güvenlik kodu ve SMS olmadan kendiliğinden okunuyor, Aylık İşler'de yeni seçenekler, sağ tıkta Sorgula ve büyük ofislerde daha hızlı ekranlar.
-• e-Vizite raporları kendiliğinden geliyor
-• Rapor onayı programdan
-• Aylık İşler: Tümü / Açıklar / Yapılanlar
-• Dilekçeler Aylık İşler'den
-• Sağ tıkta ⟳ Sorgula
-• Geçmiş ayları kapatma
-• Daha çok tebligat bildirimi müşteriyle eşleşiyor
-• Yeni müşteride beyannameler GİB'den
-• Uyuşmazlığı dikkate alma
-• Büyük ofislerde daha hızlı
-• Daha küçük yedek, Veri Sağlığı sayfası
+1.0.12
+e-Tebligat listesi donmadan açılıyor, borç dökümü ve ekstre gönderim takibi, e-Vizite onay belgeleri ve terminallerde masaüstü bildirimleri.
+• Hepsi listesi artık donmuyor
+• Masaüstü bildirimleri her bilgisayarda
+• Borç dökümü gönderme
+• Kime ekstre gönderdim?
+• Firma bıraktığında ücret
+• e-Vizite onay belgeleri
+• e-Vizite: elle onaylanan rapor ve okunamayan müşteriler
+• Pasif müşteride GİB sorgusu
+• Aylık İşler seçimleri kalıcı
