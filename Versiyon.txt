@@ -1,14 +1,17 @@
-1.0.13
-e-Defter beratları ve defter görüntüleme, muhtasar dilekçesini programdan verme, yeni Ayarlar düzeni ve daha hızlı gelen güvenlik kodu.
-• Muhtasar dilekçesini programdan verin
-• e-Defter beratları GİB'den
-• e-Defter: yevmiye, büyük defter ve beratları görüntüleyin
-• Yeni Ayarlar düzeni
-• Güvenlik kodu daha çabuk geliyor
-• Tarih aralığıyla beyanname indirme
-• Klasör belgeleri ve dosya numarası
-• Cepten borç sorgusu, portalda borç
-• Bütün sayfalarda aynı düzen
-• Karşıt inceleme tutanakları tebligat satırında
-• E-posta okuma düzeltildi
-• Bulut yedeği yaklaşık 4 kat hızlı
+1.0.14
+Vergi iadesi ve e-Haciz takibi, banka dökümünden tahsilat, tekrarlanan duyurular, TÜRMOB damga vergisi ve sözleşme hazırlama, e-posta kuralları ve haftalık özet.
+• Vergi iadesi takibi
+• e-Haciz sorgusu
+• Banka dökümünden tahsilat
+• Tekrarlanan duyurular
+• TÜRMOB damga vergisi
+• TÜRMOB'da yeni sözleşme hazırlama
+• Gönderen kuralları
+• SMS sayacı ve teslim raporu
+• Portalda sözleşme / KVKK onayı ve telefona bildirim
+• e-Vizite: otomatik 'çalışmadı' onayı
+• Haftalık özet PDF'i
+• Vergi takvimi telefonunuzda
+• Tekrarlayan görev ve tahmini gecikme cezası
+• Gelen Evraklarım ve yazı konuları
+• Konaklama vergisi ve düzeltmeler
