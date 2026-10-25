@@ -1,17 +1,5 @@
-1.0.14
-Vergi iadesi ve e-Haciz takibi, banka dökümünden tahsilat, tekrarlanan duyurular, TÜRMOB damga vergisi ve sözleşme hazırlama, e-posta kuralları ve haftalık özet.
-• Vergi iadesi takibi
-• e-Haciz sorgusu
-• Banka dökümünden tahsilat
-• Tekrarlanan duyurular
-• TÜRMOB damga vergisi
-• TÜRMOB'da yeni sözleşme hazırlama
-• Gönderen kuralları
-• SMS sayacı ve teslim raporu
-• Portalda sözleşme / KVKK onayı ve telefona bildirim
-• e-Vizite: otomatik 'çalışmadı' onayı
-• Haftalık özet PDF'i
-• Vergi takvimi telefonunuzda
-• Tekrarlayan görev ve tahmini gecikme cezası
-• Gelen Evraklarım ve yazı konuları
-• Konaklama vergisi ve düzeltmeler
+1.0.15
+Müşteri talepleri telefonunuza bildirim olarak gelir; GİB süre uzatmaları son günlere kendiliğinden işlenir; duyurularda SGK ödeme günü.
+• Müşteri talepleri telefonunuza
+• GİB süre uzatmaları kendiliğinden
+• Duyurularda ödeme son günü
