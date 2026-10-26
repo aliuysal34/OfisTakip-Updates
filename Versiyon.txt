@@ -1,5 +1,12 @@
-1.0.15
-Müşteri talepleri telefonunuza bildirim olarak gelir; GİB süre uzatmaları son günlere kendiliğinden işlenir; duyurularda SGK ödeme günü.
-• Müşteri talepleri telefonunuza
-• GİB süre uzatmaları kendiliğinden
-• Duyurularda ödeme son günü
+1.0.16
+Ceza ihbarnamesi son günleri, yazar kasa, araç, mücbir sebep ve ortaklık bilgileri GİB'den; mükellefe özel vergi takvimi; portalda belgeyi açtı mı görürsünüz; güvenlik iyileştirmeleri.
+• Vergi / ceza ihbarnameleri
+• Yazar kasa (ÖKC)
+• Araçlar, mücbir sebep, ortaklık
+• Önceki yıl geçici vergi ve iade hakkı
+• GİB bölümleri sekmeli
+• Kademeli otomatik tur
+• Mükellefe özel vergi takvimi
+• Belgeyi açtı mı?
+• Gerçek faydalanıcı bildirim formu
+• Güvenlik iyileştirmeleri
