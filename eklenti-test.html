@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- The extension's program.js activates only on pages carrying this tag (same as the Ofis Takip application page). -->
+<meta name="ofis-takip" content="test">
+<title>Ofis Takip Login Helper – Test Page</title>
+<style>
+  :root{--bg:#f4f5f1;--kart:#fff;--yazi:#1c241f;--soluk:#5e685f;--ana:#1f3a2e;--ok:#1d6b3a;--bad:#9b1c1c;--cizgi:#dfe2da}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--yazi);font:15px/1.55 "Segoe UI",Arial,sans-serif;padding:32px 16px}
+  main{max-width:760px;margin:0 auto;display:grid;gap:18px}
+  h1{font-size:24px;margin:0}
+  .kart{background:var(--kart);border:1px solid var(--cizgi);border-radius:14px;padding:18px 20px}
+  .durum{font-weight:600}
+  .durum.ok{color:var(--ok)} .durum.bad{color:var(--bad)}
+  button{font:600 15px "Segoe UI",Arial,sans-serif;background:var(--ana);color:#fff;border:0;border-radius:10px;padding:10px 16px;cursor:pointer}
+  button:disabled{opacity:.5;cursor:default}
+  .satir{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
+  code{background:#eef0ea;padding:1px 5px;border-radius:5px}
+  ol{margin:6px 0 0;padding-left:20px}
+  small{color:var(--soluk)}
+  #sonuc{min-height:1.5em}
+</style>
+</head>
+<body>
+<main>
+  <h1>Ofis Takip Login Helper – test page for reviewers</h1>
+  <div class="kart">
+    <p style="margin:0">The extension normally works together with the <b>Ofis Takip</b> desktop application, which runs on each
+    accounting firm's own computer and stores its clients' login details. This page simulates that application so the
+    extension can be tested without installing it and <b>without any real account</b>: it sends <b>made-up sample
+    data</b> to the extension, exactly as the application's "Kuruma git" (go to institution) button does.</p>
+    <p class="durum" id="durum">Checking for the extension…</p>
+  </div>
+  <div class="kart">
+    <b>Steps</b>
+    <ol>
+      <li>Install the extension and open this page (reload it once after installing).</li>
+      <li>Click one of the buttons below. The extension opens the official login page in a new tab.</li>
+      <li>On that page the extension fills the user name and password fields with the sample values below and places the
+        cursor in the security-code (CAPTCHA) field. <b>The extension never solves the security code</b>; the user types it.</li>
+      <li>Because the sample data is fake, the official site will reject a login attempt. This is expected: the feature being
+        tested is the form filling. Real logins require real Turkish taxpayer credentials, which cannot be shared.</li>
+    </ol>
+    <div class="satir">
+      <button type="button" data-site="dvd">Test: GİB Digital Tax Office</button>
+      <button type="button" data-site="ebildirge">Test: SGK e-Bildirge</button>
+      <button type="button" data-site="isveren">Test: SGK Employer System</button>
+    </div>
+    <p id="sonuc"></p>
+    <small>Sample data sent: user <code>11111111110</code>, password <code>Test.Ornek.1</code>, workplace password
+      <code>Ornek2</code>, extra code <code>1</code>. Nothing is sent to any server; this page has no network code.</small>
+  </div>
+  <div class="kart"><small>Türkçe: Bu sayfa, Edge mağazası incelemesi için eklentinin Ofis Takip programı olmadan
+    denenmesini sağlar. Gönderilen bilgiler uydurmadır; gerçek bir hesapla ilgisi yoktur.</small></div>
+</main>
+<script>
+(() => {
+  const SITELER = {
+    dvd: {ad: "GİB Digital Tax Office", url: "https://dijital.gib.gov.tr/portal/login"},
+    ebildirge: {ad: "SGK e-Bildirge", url: "https://ebildirge.sgk.gov.tr/EBildirgeV2"},
+    isveren: {ad: "SGK Employer System", url: "https://uyg.sgk.gov.tr/IsverenSistemi"}
+  };
+  const durum = document.getElementById('durum'), sonuc = document.getElementById('sonuc');
+  const dugmeler = document.querySelectorAll('button[data-site]');
+  let istek = 0;
+  function bak() {
+    const v = document.documentElement.dataset.ofisTakipEklenti;
+    durum.textContent = v ? 'Extension detected (version ' + v + ').' : 'Extension not detected. Install it and reload this page.';
+    durum.className = 'durum ' + (v ? 'ok' : 'bad');
+    dugmeler.forEach(d => d.disabled = !v);
+  }
+  window.addEventListener('message', e => {
+    if (e.source !== window || !e.data || e.data.ofistakip !== 'git-sonuc') return;
+    sonuc.textContent = e.data.hata ? 'Extension answered: ' + e.data.hata : 'The login page was opened in a new tab.';
+  });
+  dugmeler.forEach(d => d.addEventListener('click', () => {
+    const s = SITELER[d.dataset.site];
+    const veri = {site: d.dataset.site, url: s.url, firma: "TEST FIRM (sample)", aciklama: "store review",
+                  kullanici: "11111111110", ek: "1", sifre1: "Test.Ornek.1", sifre2: "Ornek2", sifre_yok: false};
+    window.postMessage({ofistakip: 'git', veri, istek: ++istek}, location.origin);
+    sonuc.textContent = 'Sent to the extension…';
+  }));
+  bak();
+  setTimeout(bak, 800);
+})();
+</script>
+</body>
+</html>
