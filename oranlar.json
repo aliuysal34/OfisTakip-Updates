@@ -1,4 +1,18 @@
 {
+ "adresler": {
+  "gib.eymm": "https://eymm.gib.gov.tr",
+  "gib.giris": "https://dijital.gib.gov.tr/portal/login",
+  "sgk.borc_giris": "https://ebildirge.sgk.gov.tr/WPEB/amp/loginldap",
+  "sgk.borc_sorgu": "https://ebildirge.sgk.gov.tr/WPEB/amp/borcSorgu",
+  "sgk.ebildirge": "https://ebildirge.sgk.gov.tr/EBildirgeV2",
+  "sgk.isveren": "https://uyg.sgk.gov.tr/IsverenSistemi",
+  "sgk.tescil": "https://uyg.sgk.gov.tr/SgkTescil4a/",
+  "sgk.vizite": "https://uyg.sgk.gov.tr/vizite/welcome.do",
+  "sgk.vizite_ws": "https://uyg.sgk.gov.tr/Ws_Vizite/services/ViziteGonder",
+  "ttsg.ana": "https://www.ticaretsicil.gov.tr",
+  "turmob.ebirlik": "https://ebirlik.turmob.org.tr",
+  "turmob.servis": "https://service1.turmob.org.tr"
+ },
  "bagkur": [
   {
    "alt_sinir": "33030.00",
@@ -357,7 +371,7 @@
    ]
   ],
   "tufe_12_ort": {
-   "2024-12": 58.51,
+   "2024-12": 58.5,
    "2025-01": 56.35,
    "2025-02": 53.83,
    "2025-03": 51.26,
@@ -371,8 +385,8 @@
    "2025-11": 35.91,
    "2025-12": 34.88,
    "2026-01": 33.98,
-   "2026-02": 33.39,
-   "2026-03": 32.82,
+   "2026-02": 33.4,
+   "2026-03": 32.83,
    "2026-04": 32.43,
    "2026-05": 32.24,
    "2026-06": 32.03,
@@ -414,6 +428,153 @@
   ],
   "uzlasma_haddi": 40000
  },
- "surum": 1791287632,
- "tarih": "2026-10-06T14:53:52"
+ "surum": 1793163973,
+ "tarih": "2026-10-28T08:06:13",
+ "yz": {
+  "saglayicilar": {
+   "claude": {
+    "gizlilik": "Ücretli API: gönderilen metinler varsayılan olarak model eğitiminde kullanılmaz. Sunucular yurt dışında.",
+    "modeller": {
+     "claude-haiku-5-5": [
+      "Claude Haiku 5.5",
+      "en hızlı ve ucuz"
+     ],
+     "claude-opus-5-5": [
+      "Claude Opus 5.5",
+      "en isabetli · en pahalı"
+     ],
+     "claude-sonnet-5-5": [
+      "Claude Sonnet 5.5",
+      "dengeli (önerilen)"
+     ]
+    },
+    "varsayilan": "claude-sonnet-5-5",
+    "yedekler": [
+     "claude-sonnet-5-5",
+     "claude-haiku-5-5"
+    ]
+   },
+   "deepseek": {
+    "gizlilik": "Veriler Çin'de saklanır. Mevzuat özeti için uygundur; müşteri yazısı (cevap taslağı) için ÖNERİLMEZ.",
+    "modeller": {
+     "deepseek-chat": [
+      "DeepSeek Chat",
+      "çok ucuz"
+     ],
+     "deepseek-reasoner": [
+      "DeepSeek Reasoner",
+      "düşünen model, daha yavaş"
+     ]
+    },
+    "varsayilan": "deepseek-chat",
+    "yedekler": [
+     "deepseek-chat"
+    ]
+   },
+   "gemini": {
+    "gizlilik": "Ücretsiz kullanımda Google gönderilen metni ürün geliştirmede kullanabilir; faturalandırması açık (ücretli) hesapta kullanmaz. Müşteri yazısı (cevap taslağı) için ücretli hesap önerilir.",
+    "modeller": {
+     "gemini-3.8-flash": [
+      "Gemini 3.8 Flash",
+      "dengeli · ücretsiz kotası var (önerilen)"
+     ],
+     "gemini-flash-lite-latest": [
+      "Gemini Flash-Lite (güncel)",
+      "en hızlı ve ucuz · ücretsiz kotası var"
+     ],
+     "gemini-pro-latest": [
+      "Gemini Pro (güncel)",
+      "en isabetli · sadece ücretli (faturalandırma açık) hesapta"
+     ]
+    },
+    "varsayilan": "gemini-3.8-flash",
+    "yedekler": [
+     "gemini-3.8-flash",
+     "gemini-flash-latest",
+     "gemini-flash-lite-latest"
+    ]
+   },
+   "grok": {
+    "gizlilik": "Sunucular yurt dışında; veri koşullarını console.x.ai'den kontrol edin.",
+    "modeller": {
+     "grok-4": [
+      "Grok 4",
+      "isabetli"
+     ]
+    },
+    "varsayilan": "grok-4",
+    "yedekler": []
+   },
+   "mistral": {
+    "gizlilik": "Avrupa (Fransa) merkezli; veri işleme ve eğitim koşullarını console.mistral.ai'den kontrol edin.",
+    "modeller": {
+     "mistral-large-latest": [
+      "Mistral Large (güncel)",
+      "en isabetli"
+     ],
+     "mistral-medium-latest": [
+      "Mistral Medium (güncel)",
+      "dengeli (önerilen)"
+     ],
+     "mistral-small-latest": [
+      "Mistral Small (güncel)",
+      "en ucuz"
+     ]
+    },
+    "varsayilan": "mistral-medium-latest",
+    "yedekler": [
+     "mistral-medium-latest",
+     "mistral-small-latest"
+    ]
+   },
+   "openai": {
+    "gizlilik": "Ücretli API: gönderilen metinler varsayılan olarak model eğitiminde kullanılmaz. Sunucular yurt dışında.",
+    "modeller": {
+     "gpt-5": [
+      "GPT-5",
+      "en isabetli"
+     ],
+     "gpt-5-mini": [
+      "GPT-5 mini",
+      "dengeli (önerilen)"
+     ],
+     "gpt-5-nano": [
+      "GPT-5 nano",
+      "en ucuz"
+     ]
+    },
+    "varsayilan": "gpt-5-mini",
+    "yedekler": [
+     "gpt-5-mini",
+     "gpt-5-nano"
+    ]
+   },
+   "openrouter": {
+    "gizlilik": "Metni seçilen modelin sağlayıcısına iletir. openrouter.ai › Settings › Privacy'den eğitimde kullanmayan sağlayıcılarla sınırlayabilirsiniz.",
+    "modeller": {
+     "openrouter/auto": [
+      "Otomatik seçim",
+      "OpenRouter isteğe göre model seçer"
+     ]
+    },
+    "varsayilan": "openrouter/auto",
+    "yedekler": [
+     "openrouter/auto"
+    ]
+   },
+   "ozel": {
+    "gizlilik": "Koşullar servise bağlıdır; müşteri yazısı göndermeden önce servisin veri koşullarını kontrol edin.",
+    "modeller": {},
+    "varsayilan": "",
+    "yedekler": []
+   },
+   "yerel": {
+    "gizlilik": "Metin bilgisayardan (ya da ofis ağından) ÇIKMAZ. Gizlilik açısından en güvenli seçenek.",
+    "modeller": {},
+    "varsayilan": "",
+    "yedekler": []
+   }
+  },
+  "tarih": "2026-10-27"
+ }
 }
