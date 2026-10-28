@@ -1,12 +1,8 @@
-1.0.18
-İstediğiniz yapay zekâyı seçin (yerel model dahil); şifreleri Excel'den toplu aktarın; e-Tebligat gün içinde kodsuz yeniden kontrol edilebilir; cevap taslağı Word'ü düzgün; SGK 7440 planı PDF'i ve bozulma uyarısı.
-• Yapay zekâyı siz seçin
-• Şifreleri Excel'den aktar
-• Gün içinde kodsuz tekrar kontrol
-• Cevap taslağı daha düzgün
-• 7440 yapılandırma planı PDF'i
-• e-Vizite daha kararlı
-• Genel taramada 'kayıt yok' düzeltmesi
-• Ücret teklifi
-• Doğru sayım
+1.0.19
+Gün içi kodsuz e-Tebligat kontrolü artık oturumu gün boyu açık tutuyor; e-Haciz ekranı vergi dairesindeki gibi; karşıt inceleme 'GİB'de cevapla' doğrudan tutanağa gider.
+• Kodsuz tekrar kontrol 10 dakikada bir
+• e-Haciz ekranı vergi dairesindeki gibi
+• Karşıt inceleme: GİB'de cevapla
+• Karşıt inceleme cevap bilgileri
+• Ödeme kartı daha açık
 • Küçük düzeltmeler
