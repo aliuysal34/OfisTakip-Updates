@@ -1,10 +1,12 @@
-1.0.17
-Açıklar'da kapanan firma tahakkuk gönderilene kadar ekranda kalır; sorgu menüleri sadeleşti; ücret teklifi, gümrük çıkış beyannameleri, ithalde ödenen KDV ve ödeme alındıları; resmî yazılara yapay zekâyla cevap taslağı.
-• Açıklar'da firma kaybolmaz
-• Sade sorgu menüsü
+1.0.18
+İstediğiniz yapay zekâyı seçin (yerel model dahil); şifreleri Excel'den toplu aktarın; e-Tebligat gün içinde kodsuz yeniden kontrol edilebilir; cevap taslağı Word'ü düzgün; SGK 7440 planı PDF'i ve bozulma uyarısı.
+• Yapay zekâyı siz seçin
+• Şifreleri Excel'den aktar
+• Gün içinde kodsuz tekrar kontrol
+• Cevap taslağı daha düzgün
+• 7440 yapılandırma planı PDF'i
+• e-Vizite daha kararlı
+• Genel taramada 'kayıt yok' düzeltmesi
 • Ücret teklifi
-• Gümrük çıkış beyannameleri
-• İthalde ödenen KDV ve ödeme alındıları
-• Cevap taslağı (yapay zekâ)
-• Kurum şifreleri herkese açık
-• Hız ve sağlamlık
+• Doğru sayım
+• Küçük düzeltmeler
