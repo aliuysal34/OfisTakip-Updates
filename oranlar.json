@@ -428,13 +428,17 @@
   ],
   "uzlasma_haddi": 40000
  },
- "surum": 1793299571,
- "tarih": "2026-10-29T21:46:11",
+ "surum": 1793309317,
+ "tarih": "2026-10-30T00:28:37",
  "yz": {
   "saglayicilar": {
    "claude": {
     "gizlilik": "Ücretli API: gönderilen metinler varsayılan olarak model eğitiminde kullanılmaz. Sunucular yurt dışında.",
     "modeller": {
+     "claude-fable-5-1": [
+      "Claude Fable 5.1",
+      "en yeni model"
+     ],
      "claude-haiku-5-5": [
       "Claude Haiku 5.5",
       "en hızlı ve ucuz"
@@ -575,6 +579,6 @@
     "yedekler": []
    }
   },
-  "tarih": "2026-10-27"
+  "tarih": "2026-10-30"
  }
 }
