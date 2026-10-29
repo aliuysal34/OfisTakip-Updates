@@ -371,7 +371,7 @@
    ]
   ],
   "tufe_12_ort": {
-   "2024-12": 58.5,
+   "2024-12": 58.51,
    "2025-01": 56.35,
    "2025-02": 53.83,
    "2025-03": 51.26,
@@ -385,8 +385,8 @@
    "2025-11": 35.91,
    "2025-12": 34.88,
    "2026-01": 33.98,
-   "2026-02": 33.4,
-   "2026-03": 32.83,
+   "2026-02": 33.39,
+   "2026-03": 32.82,
    "2026-04": 32.43,
    "2026-05": 32.24,
    "2026-06": 32.03,
@@ -428,8 +428,8 @@
   ],
   "uzlasma_haddi": 40000
  },
- "surum": 1793163973,
- "tarih": "2026-10-28T08:06:13",
+ "surum": 1793299571,
+ "tarih": "2026-10-29T21:46:11",
  "yz": {
   "saglayicilar": {
    "claude": {
@@ -495,7 +495,7 @@
     ]
    },
    "grok": {
-    "gizlilik": "Sunucular yurt dışında; veri koşullarını console.x.ai'den kontrol edin.",
+    "gizlilik": "Sunucular yurt dışında; veri koşullarını console.x.ai'den kontrol edin. Mevzuat özeti için uygundur; müşteri yazısı (cevap taslağı) için kapalıdır (veriyi eğitimde kullanmama taahhüdü belirsiz).",
     "modeller": {
      "grok-4": [
       "Grok 4",
@@ -550,7 +550,7 @@
     ]
    },
    "openrouter": {
-    "gizlilik": "Metni seçilen modelin sağlayıcısına iletir. openrouter.ai › Settings › Privacy'den eğitimde kullanmayan sağlayıcılarla sınırlayabilirsiniz.",
+    "gizlilik": "Metni seçilen modelin sağlayıcısına iletir. openrouter.ai › Settings › Privacy'den eğitimde kullanmayan sağlayıcılarla sınırlayabilirsiniz. Müşteri yazısı (cevap taslağı) için kapalıdır: hangi sağlayıcıya gideceği sözleşmeyle güvence altında değil.",
     "modeller": {
      "openrouter/auto": [
       "Otomatik seçim",
@@ -563,7 +563,7 @@
     ]
    },
    "ozel": {
-    "gizlilik": "Koşullar servise bağlıdır; müşteri yazısı göndermeden önce servisin veri koşullarını kontrol edin.",
+    "gizlilik": "Koşullar servise bağlıdır. Müşteri yazısı (cevap taslağı) için kapalıdır; kurum içi sunucunuz varsa 'Yerel model' seçeneğine adresini yazın.",
     "modeller": {},
     "varsayilan": "",
     "yedekler": []
