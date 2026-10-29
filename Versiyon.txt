@@ -1,12 +1,13 @@
-1.0.21
-Kişisel verilerin korunması için yeni düzenlemeler (müşteri imhası, şifreli sağlık belgeleri, otomatik 'çalışmadı' için yazılı talimat, salt okunur kip), karşıt inceleme için hazır GİB Excel'leri ve kredi kartı alındılarının PDF'leri.
-• Otomatik 'çalışmadı' için yazılı talimat
-• Sağlık belgeleri şifreli
-• Müşteri imhası (KVKK)
-• Mükellef e-Devlet şifresi saklanmaz
-• Yapay zekâ ile cevap taslağı için ayrı seçim
-• Lisans sorununda salt okunur kip
-• Karşıt inceleme: GİB Excel'leri hazır
-• Kredi kartı alındılarının PDF'i
-• Resmî gönderim kayıtları
-• Küçük düzeltmeler
+1.0.22
+Yeni GİB sorguları (izaha davet, ödeme emri, takdire sevk, tahakkuklarım), karşıt inceleme cevabı için muhasebe dökümlerinden hazır Excel'ler, Bugün uyarılarından doğrudan ilgili müşterilere gitme ve bütün pencerelerde ─ □ × düğmeleri.
+• Yeni sorgular: izaha davet, ödeme emri, takdire sevk, ikincil sorumluluk
+• Tahakkuk bilgilerim ve sorumlu sıfatıyla ödenen KDV
+• Karşıt inceleme: faturalar ve tedarikçiler Excel'i
+• Cevap bekleyen tutanağı seçme
+• Uyarıdan doğrudan ilgili müşterilere
+• Pencerelerde ─ □ × ve Esc
+• Yeni mükellef portalı ve müşavir cebi düzeni
+• Tutarlılık penceresi yenilendi
+• Otomatik 'çalışmadı' talimat listesi
+• Ünvanlar GİB yazımıyla düzelir
+• GİB'den indirilen önizleme dosyaları
