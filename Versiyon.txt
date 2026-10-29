@@ -1,15 +1,12 @@
-1.0.20
-Vergi borcu sorgusu ödemeleri de getiriyor (kredi kartıyla ödenenler ve alındı PDF'leri dahil); kapatıp yeniden açan firmaların faaliyet dönemleri GİB'den; muhtasar dönem türü ve ünvan GİB'deki bilgiyle kendiliğinden düzeliyor.
-• Borç sorgusu ödemeleri de getirir
-• Kredi kartıyla ödenen vergiler
-• Ödenen vergiler yıl yıl
-• Faaliyet dönemleri GİB'den
-• Muhtasar dönem türü kendiliğinden
-• Ünvan GİB'deki yazımla düzelir
-• Mücbir sebep tablosu
-• Karşıt inceleme 'Cevapla' doğrudan tutanağa
-• Asıl / düzeltme beyannamesi doğru sıralanır
-• Çok işyerli firmada belgeler şubelere
-• Android'de 'Chrome'da aç'
-• Güvenlik iyileştirmeleri
+1.0.21
+Kişisel verilerin korunması için yeni düzenlemeler (müşteri imhası, şifreli sağlık belgeleri, otomatik 'çalışmadı' için yazılı talimat, salt okunur kip), karşıt inceleme için hazır GİB Excel'leri ve kredi kartı alındılarının PDF'leri.
+• Otomatik 'çalışmadı' için yazılı talimat
+• Sağlık belgeleri şifreli
+• Müşteri imhası (KVKK)
+• Mükellef e-Devlet şifresi saklanmaz
+• Yapay zekâ ile cevap taslağı için ayrı seçim
+• Lisans sorununda salt okunur kip
+• Karşıt inceleme: GİB Excel'leri hazır
+• Kredi kartı alındılarının PDF'i
+• Resmî gönderim kayıtları
 • Küçük düzeltmeler
