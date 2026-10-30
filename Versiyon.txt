@@ -1,13 +1,10 @@
-1.0.22
-Yeni GİB sorguları (izaha davet, ödeme emri, takdire sevk, tahakkuklarım), karşıt inceleme cevabı için muhasebe dökümlerinden hazır Excel'ler, Bugün uyarılarından doğrudan ilgili müşterilere gitme ve bütün pencerelerde ─ □ × düğmeleri.
-• Yeni sorgular: izaha davet, ödeme emri, takdire sevk, ikincil sorumluluk
-• Tahakkuk bilgilerim ve sorumlu sıfatıyla ödenen KDV
-• Karşıt inceleme: faturalar ve tedarikçiler Excel'i
-• Cevap bekleyen tutanağı seçme
-• Uyarıdan doğrudan ilgili müşterilere
-• Pencerelerde ─ □ × ve Esc
-• Yeni mükellef portalı ve müşavir cebi düzeni
-• Tutarlılık penceresi yenilendi
-• Otomatik 'çalışmadı' talimat listesi
-• Ünvanlar GİB yazımıyla düzelir
-• GİB'den indirilen önizleme dosyaları
+1.0.23
+e-Vizite talimatlarını toplu işaretleme, sorumlu sıfatıyla ödenen KDV indiriminin kontrolü, Bugün'de 'Tamamlandı / Görüldü' düğmeleri ve ilk kullanımda görülen düzeltmeler.
+• e-Vizite yazılı talimatı toplu işaretleme
+• Sorumlu sıfatıyla ödenen KDV kontrolü
+• Gönüllü uyum: 'Tamamlandı'
+• GİB yoklaması: 'Görüldü'
+• Ödeme emri dosyalarının ayrıntısı tamamlanır
+• İhbarnamenin son günü
+• Cepte eski / kayıtsız mükellef adı
+• Küçük düzeltmeler
