@@ -1,10 +1,14 @@
-1.0.23
-e-Vizite talimatlarını toplu işaretleme, sorumlu sıfatıyla ödenen KDV indiriminin kontrolü, Bugün'de 'Tamamlandı / Görüldü' düğmeleri ve ilk kullanımda görülen düzeltmeler.
-• e-Vizite yazılı talimatı toplu işaretleme
-• Sorumlu sıfatıyla ödenen KDV kontrolü
-• Gönüllü uyum: 'Tamamlandı'
-• GİB yoklaması: 'Görüldü'
-• Ödeme emri dosyalarının ayrıntısı tamamlanır
-• İhbarnamenin son günü
-• Cepte eski / kayıtsız mükellef adı
-• Küçük düzeltmeler
+1.0.24
+Program artık UYRAS: yeni logo ve renkler. Açılış kontrol listesinde resmî sitelerde doldurma (GİB sözleşme, e-Arşiv, Defter Beyan, SGK UAVT adresi, e-Vizite yetkisi) ve cepte bütün GİB sorguları.
+• Yeni ad ve görünüm: UYRAS
+• Açılış listesi: GİB'e SMMM sözleşmesi girişi
+• Açılış listesi: e-Arşiv ve Defter Beyan
+• Açılış listesi: SGK UAVT adresi ve e-Vizite yetkisi
+• SGK tescil belgesi ve işe giriş süresi
+• Güvenlik kodu programın penceresinde
+• Açılış listesi kolaylıkları
+• Cep ve iş telefonu ayrı
+• Cepte bütün GİB sorguları
+• E-postalarda resimler
+• Terminallerde 'Bağlantınız özel değil' hatası
+• Vergi levhasında bağlantı kopması
