@@ -1,9 +1,13 @@
-1.0.25
-Yeni müşteri kaydındaki hata giderildi. Belgeler ve büyük ekranlar kendi Uyras penceresinde açılıyor, sayfalar kendini yeniliyor; görevlerde ekran uyarısı ve hatırlatma.
-• Yeni müşteri kaydı düzeltildi
-• İkinci ekranlar kendi Uyras penceresinde
-• Sayfalar kendini yeniler
-• Görevler: ekran uyarısı ve hatırlatma
-• Karşıt inceleme: onay bekleyen tutanak
-• Uzak masaüstüyle bağlananlar
-• Kısa ekranlarda sol menü
+1.0.26
+Ağdaki bilgisayarlar GİB / SGK işlerini aynı anda yapabiliyor. Karşıt inceleme Excel'leri Defter-Beyan dökümleri ve GİB'in kendi şablonuyla dolduruluyor. Kapsamlı güvenlik ve doğruluk düzeltmeleri.
+• Aynı anda GİB / SGK işi
+• Karşıt inceleme: Defter-Beyan dökümleri
+• Karşıt inceleme: GİB'in kendi fatura şablonu
+• Okunamayan bilgi artık 'yok' sayılmıyor
+• GİB / SGK penceresi
+• e-Vizite daha güvenli
+• Kişisel veri ve yetki
+• Bulut bağlantısı ve lisans
+• Yedek ve arşiv
+• Cari ve hesaplama
+• Zamanlı duyurular ve diğerleri
