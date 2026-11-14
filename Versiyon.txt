@@ -1,13 +1,11 @@
-1.0.26
-Ağdaki bilgisayarlar GİB / SGK işlerini aynı anda yapabiliyor. Karşıt inceleme Excel'leri Defter-Beyan dökümleri ve GİB'in kendi şablonuyla dolduruluyor. Kapsamlı güvenlik ve doğruluk düzeltmeleri.
-• Aynı anda GİB / SGK işi
-• Karşıt inceleme: Defter-Beyan dökümleri
-• Karşıt inceleme: GİB'in kendi fatura şablonu
-• Okunamayan bilgi artık 'yok' sayılmıyor
-• GİB / SGK penceresi
-• e-Vizite daha güvenli
-• Kişisel veri ve yetki
-• Bulut bağlantısı ve lisans
-• Yedek ve arşiv
-• Cari ve hesaplama
-• Zamanlı duyurular ve diğerleri
+1.0.27
+Yeni Klasik görünüm (isteğe bağlı), baştan düzenlenen sağ tık menüsü, mükellefin borcunu portaldan kendisinin sorgulaması, gerçek Excel dökümleri ve daha sade müşteri kartı.
+• Klasik görünüm (isteğe bağlı)
+• Yeni sağ tık menüsü
+• Mükellef borcunu kendisi sorgular
+• Excel'e aktar
+• Daha sade müşteri kartı
+• Aylık İşler: firma seçimi çift tıklamayla
+• Daha düzgün mailler
+• Ödemeler ekranı kaldırıldı
+• Küçük düzeltmeler
