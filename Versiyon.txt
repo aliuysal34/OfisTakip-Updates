@@ -1,11 +1,12 @@
-1.0.27
-Yeni Klasik görünüm (isteğe bağlı), baştan düzenlenen sağ tık menüsü, mükellefin borcunu portaldan kendisinin sorgulaması, gerçek Excel dökümleri ve daha sade müşteri kartı.
-• Klasik görünüm (isteğe bağlı)
-• Yeni sağ tık menüsü
-• Mükellef borcunu kendisi sorgular
-• Excel'e aktar
-• Daha sade müşteri kartı
-• Aylık İşler: firma seçimi çift tıklamayla
-• Daha düzgün mailler
-• Ödemeler ekranı kaldırıldı
+1.0.28
+Bugün ekranında geçmiş aylar, Aylık İşler'de daha akıllı süzgeç ve seçim, mükellef portal sorgusu ve e-Vizite düzeltmeleri; çok sayıda güvenlik ve doğruluk iyileştirmesi.
+• Geçmiş aylara bakın
+• Aylık İşler: süzgeç işinizi bölmez
+• Aylık İşler: 'N seçili' ile yalnız seçilenler
+• Mükellef borç sorgusu ofis ekranında görünmez
+• e-Vizite daha güvenli
+• Bağ-Kur ve tutar girişleri denetimli
+• Sorumlu sıfatıyla ödenen KDV
+• Excel'e aktarımda güvenlik
+• Yetki ve güvenlik iyileştirmeleri
 • Küçük düzeltmeler
