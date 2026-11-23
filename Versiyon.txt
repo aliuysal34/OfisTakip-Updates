@@ -1,12 +1,13 @@
-1.0.28
-Bugün ekranında geçmiş aylar, Aylık İşler'de daha akıllı süzgeç ve seçim, mükellef portal sorgusu ve e-Vizite düzeltmeleri; çok sayıda güvenlik ve doğruluk iyileştirmesi.
-• Geçmiş aylara bakın
-• Aylık İşler: süzgeç işinizi bölmez
-• Aylık İşler: 'N seçili' ile yalnız seçilenler
-• Mükellef borç sorgusu ofis ekranında görünmez
-• e-Vizite daha güvenli
-• Bağ-Kur ve tutar girişleri denetimli
-• Sorumlu sıfatıyla ödenen KDV
-• Excel'e aktarımda güvenlik
-• Yetki ve güvenlik iyileştirmeleri
-• Küçük düzeltmeler
+1.0.29
+Kira stopaj ödeme dökümü, alınan e-SMM makbuzları, Aylık İşler notunda SGK raporları ve notlar listesi, haftalık risk sıralaması ve Chrome seçeneği.
+• Kira stopaj ödeme dökümü
+• Alınan e-SMM makbuzları
+• Aylık İşler notunda SGK raporları ve e-SMM
+• Notlar listesi
+• Bu haftanın riskli müşterileri
+• Program penceresi Chrome'da da açılabilir
+• Fotoğraf evraklar pencereye sığar
+• Kapanan firmanın son beyannameleri listede kalır
+• Tahmini eşleşme onayınızı hatırlar
+• Ekstrede banka bilgileri daha düzenli
+• Hesaplama açıklamaları
