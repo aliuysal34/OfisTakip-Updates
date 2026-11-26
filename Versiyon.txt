@@ -1,13 +1,14 @@
-1.0.29
-Kira stopaj ödeme dökümü, alınan e-SMM makbuzları, Aylık İşler notunda SGK raporları ve notlar listesi, haftalık risk sıralaması ve Chrome seçeneği.
-• Kira stopaj ödeme dökümü
-• Alınan e-SMM makbuzları
-• Aylık İşler notunda SGK raporları ve e-SMM
-• Notlar listesi
-• Bu haftanın riskli müşterileri
-• Program penceresi Chrome'da da açılabilir
-• Fotoğraf evraklar pencereye sığar
-• Kapanan firmanın son beyannameleri listede kalır
-• Tahmini eşleşme onayınızı hatırlar
-• Ekstrede banka bilgileri daha düzenli
-• Hesaplama açıklamaları
+1.0.30
+Faturalar ekranı (alış ve e-Arşiv satış faturaları), ortaklı bürolar için Ofis Hesabı, Mevzuata sor, ofis adı + müşavir imzası, terminalden Uzak Pencere ve çok sayıda güvenlik / doğruluk iyileştirmesi.
+• Faturalar ekranı
+• e-Arşiv satış faturaları kendiliğinden
+• Ofis Hesabı (ortaklı bürolar)
+• Mevzuata sor
+• Yazılarda ofis adı ve müşavir
+• Terminalden Uzak Pencere
+• Masaüstü bildirimleri
+• Saat başı tur müşterinin sorumlusuna
+• Muhtasar şube kodu ve e-Defter klasörü
+• Zamanlı duyurular daha sağlam
+• Klasik görünümde YARDIM menüsü ve sağ tık
+• Güvenlik ve doğruluk taramaları
