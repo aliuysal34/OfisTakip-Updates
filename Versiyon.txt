@@ -1,14 +1,12 @@
-1.0.30
-Faturalar ekranı (alış ve e-Arşiv satış faturaları), ortaklı bürolar için Ofis Hesabı, Mevzuata sor, ofis adı + müşavir imzası, terminalden Uzak Pencere ve çok sayıda güvenlik / doğruluk iyileştirmesi.
-• Faturalar ekranı
-• e-Arşiv satış faturaları kendiliğinden
-• Ofis Hesabı (ortaklı bürolar)
-• Mevzuata sor
-• Yazılarda ofis adı ve müşavir
-• Terminalden Uzak Pencere
-• Masaüstü bildirimleri
-• Saat başı tur müşterinin sorumlusuna
-• Muhtasar şube kodu ve e-Defter klasörü
-• Zamanlı duyurular daha sağlam
-• Klasik görünümde YARDIM menüsü ve sağ tık
-• Güvenlik ve doğruluk taramaları
+1.0.31
+Programdan e-Arşiv fatura kesme (SMS onaylı), müfettiş yazılarına hazır cevap paketi, e-Fatura entegratörü (Anadolu Dönüşüm / Hızlı) bağlantısı, ortakların kişisel e-Tebligat takibi ve e-Defter / e-posta iyileştirmeleri.
+• e-Arşiv fatura kesme
+• Fatura kes tek pencerede
+• Müfettiş yazıları
+• Müfettişe hazır cevap paketi
+• e-Fatura entegratörü (Anadolu Dönüşüm / Hızlı)
+• Kişisel e-Tebligat takibi
+• e-Defter: terminaldeki büyük defterler
+• E-posta eşleşmesi öğrenir
+• Uzun işlemde bekleme penceresi
+• Daha sade menü
